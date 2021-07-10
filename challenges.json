@@ -1,0 +1,11 @@
+{
+    "challenge_one" : {
+        "challenge_name" : "Decrypt My Instructions",
+        "instructions" : "Given an encoded text file that has been saved to a variable, new_docstr. Return the original text in the document with no key.\nPart 2: Given an encrypted key, f, return the original text of the document.",
+        "examples" : "Input: encrypted_message\nOutput: original_message",
+        "category" : "Cyber - Decryption",
+        "difficulty_level" : "Medium",
+        "challenge_creator" : "Shellbyy",
+        "description" : "Your friend has given you a jump drive that has an encoded document on it. Friend doesn't know how to decrypt a file, and has heard you talking about it before. Friend asks you to decrypt the file and return back to him the original message."
+    }
+}
